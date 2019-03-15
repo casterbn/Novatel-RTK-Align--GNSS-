@@ -1,8 +1,8 @@
 # OEM7配置
 ## master
-COM1 
+#### COM1 
 
-COM2
+#### COM2
 serialconfig com2 115200
 interfacemode com2 novatel novatelx on
 movingbasestation enable
@@ -12,12 +12,12 @@ COM3
 
 
 ## rover
-###COM1
+#### COM1
 
-COM2
+#### COM2
 serialconfig com2 115200
 interfacemode com2 novatelx novatel on
 log com2 headingextb onchanged
 
-COM3
+#### COM3
 
